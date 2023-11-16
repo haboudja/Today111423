@@ -1,0 +1,49 @@
+    1  pwd
+    2  cd Desktop/
+    3  pwd
+    4  clear
+    5  mkdir MyGitExplore
+    6  clear
+    7  pwd
+    8  cd MyGitExplore/
+    9  pwd
+   10  clear
+   11  pwd
+   12  history
+   13  clear
+   14  git configure --global user.name " Hyacinthe Aboudja "
+   15  git config --global user.name " Hyacinthe Aboudja "
+   16  git config --global user.email " haboudja@okcu.edu "
+   17  history
+   18  clear
+   19  pwd
+   20  clear
+   21  ls
+   22  ls -al
+   23  clear
+   24  git init
+   25  ls
+   26  ls -al
+   27  clear
+   28  ls
+   29  which nano
+   30  which pico
+   31  clear
+   32  nano myFile1.txt
+   33  ls
+   34  ls -al
+   35  clear
+   36  ls
+   37  git add .
+   38  ls
+   39  ls -al
+   40  clear
+   41  git commit -m " This is the first version of myFile.txt"
+   42  ls
+   43  git remote add origin https://github.com/haboudja/Today111423
+   44  ls
+   45  git push -u origin master
+   46  clear
+   47  history 
+   48  clear
+   49  history > Today111423Git
